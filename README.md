@@ -1,6 +1,7 @@
 
 > Open this page at [https://krissy980.github.io/operation-game/](https://krissy980.github.io/operation-game/)
-
+## How to use
+Add cable to P0 & GND, when they touch you loose a point.
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
